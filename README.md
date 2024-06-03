@@ -64,8 +64,8 @@ _(4) Luego, ejecute el programa ingresando la ip del servidor (esta se puede ver
 
 A continuación se mostrara un ejemplo de la ejecución de los programas utilizando el puerto "7777" para establecer la conexión del cliente al servidor.
 
-![Servidor ejemplo](https://imgur.com/EkzPmI6)
+![Servidor ejemplo](https://imgur.com/EkzPmI6.png)
 
-![Cliente ejemplo](https://imgur.com/mxmZod7)
+![Cliente ejemplo](https://imgur.com/mxmZod7.png)
 
 ---
