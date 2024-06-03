@@ -20,7 +20,7 @@ Para lograr esto, se creo un proyecto el cual tiene como objetivo recrear el jue
 
 Se immplementara el juego Cuatro en Lınea mediante el modelo Cliente/Servidor. Para ello, se crearan dos programas de los cuales uno funcionara como el Servidor de juegos (con peticiones concurrentes) y el otro sera el Cliente que se conectara al servidor para jugar.
 
-### Pre-requisitos
+## Pre-requisitos
 
 _Es importante ejecutar estos comandos antes de compilar los códigos proporcionados en el proyecto para asegurarte de tener todas las dependencias necesarias instaladas._
 
@@ -37,7 +37,7 @@ _Este comando instala la **herramienta make** en tu sistema. make es una utilida
    sudo apt-get install make
    ```
 
-### Compilación y ejecución
+## Compilación y ejecución
 
 _(1) Ubiquese dentro del directorio "/servidor", luego ejecute el siguiente comando para compilar el programa del servidor._
 
